@@ -1,0 +1,1 @@
+closed.log("Hello test1");
